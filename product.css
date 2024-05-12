@@ -5,11 +5,6 @@ body {
 
 .header-nav {  /* Target the navigation element */
     position: relative;
-    display: flex;  /* Make it a flexbox container */
-    justify-content: center;  /* Center the content horizontally */
-    list-style: none;  /* Remove default list styling (bullets/numbers) */
-    padding: 0;  /* Remove default padding */
-    top: -50px;
 }
   
 .header-link {  /* Style the links within the navigation */
